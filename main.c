@@ -11,5 +11,7 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
   printf("B's input\n");
+  printf("A's input!\n");
+
   return 0;
 }
